@@ -1,0 +1,30 @@
+Entro en controlador login
+Entro en controlador login
+Ocurrio un error en getAllUsuarios:Could not open JPA EntityManager for transaction
+Ocurrio un error en getAllUsuarios:Could not open JPA EntityManager for transaction
+Ocurrio un error en getAllUsuarios:Could not open JPA EntityManager for transaction
+Entro en crear controlador usuario
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en crear controlador usuario
+Entro en controlador login
+Entro en crear controlador usuario
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en crear controlador usuario
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en controlador login
+Entro en crear controlador usuario
+Entro en controlador login
+Entro en crear controlador usuario
+Entro en controlador login
