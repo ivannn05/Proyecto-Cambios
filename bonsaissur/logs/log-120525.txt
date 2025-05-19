@@ -1,0 +1,51 @@
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:pablo@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario con correo:pablo@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:pablo@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Ocurrio un error en el servicio actualizar contraseña;Cannot invoke "java.sql.Timestamp.toLocalDateTime()" because the return value of "tienda.bonsaissur.dtos.Usuario.getFechaToken()" is null
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en escribir Contraseña
+Ocurrio un error en el servicio actualizar contraseña;Cannot invoke "java.sql.Timestamp.toLocalDateTime()" because the return value of "tienda.bonsaissur.dtos.Usuario.getFechaToken()" is null
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Ocurrio un error en el servicio actualizar contraseña;Cannot invoke "java.sql.Timestamp.toLocalDateTime()" because the return value of "tienda.bonsaissur.dtos.Usuario.getFechaToken()" is null
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario entro en recuperar contraseña
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en recuperar contraseña
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario entro en escribir Contraseña
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario entro en recuperar contraseña
+Usuario entro en escribir Contraseña
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en cerrar sesion

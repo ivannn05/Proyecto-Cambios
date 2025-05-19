@@ -1,0 +1,25 @@
+Usuario con correo:prueba@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en cerrar sesion
+Usuario con correo:givanof2005@gmail.com entro en login
+Usuario entro en registro usuario
+Usuario entro en cerrar sesion
+Usuario con correo:prueba@gmail.com entro en login
+Usuario entro en registro usuario
+Usuario con correo:as@as entro en login
+Usuario con correo:as@as entro en login
+Usuario con correo:as@as entro en login
+Usuario con correo:as@as entro en login
+Usuario con correo:as@as entro en login
+Usuario entro en registro usuario
+Usuario con correo:haber@haber entro en login
+Usuario con correo:haber@haber entro en login
+Usuario con correo:haber@haber entro en login
+Usuario con correo:haber@haber entro en login
+Usuario con correo:haber@haber entro en login
+Usuario con correo:haber@haber entro en login
+Usuario entro en registro usuario
+Usuario con correo:pablo@gmail.com entro en login
+Usuario entro en registro usuario
+Usuario con correo:juan@gmail.com entro en login
